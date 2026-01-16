@@ -10,10 +10,10 @@
     </Style>
     <Region>
       <LatLonAltBox>
-        <north>42.05580757319679</north>
-        <south>41.92786301806079</south>
-        <east>2.23308348942700</east>
-        <west>2.10513893429100</west>
+        <north>40.59699753959235</north>
+        <south>40.44881070015555</south>
+        <east>2.61665082458685</east>
+        <west>2.46846398515005</west>
       </LatLonAltBox>
       <Lod>
         <minLodPixels>128</minLodPixels>
@@ -26,10 +26,10 @@
         <href>1.png</href>
       </Icon>
       <LatLonBox>
-        <north>42.05580757319679</north>
-        <south>41.92786301806079</south>
-        <east>2.23308348942700</east>
-        <west>2.10513893429100</west>
+        <north>40.59699753959235</north>
+        <south>40.44881070015555</south>
+        <east>2.61665082458685</east>
+        <west>2.46846398515005</west>
       </LatLonBox>
     </GroundOverlay>
       </Document>
