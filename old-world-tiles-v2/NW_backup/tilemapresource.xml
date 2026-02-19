@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>NW</Title>
+      <Abstract></Abstract>
+      <SRS>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
+      <BoundingBox minx="-19.04620512094580" miny="50.69734938052550" maxx="-0.29015160094580" maxy="69.45340290052550"/>
+      <Origin x="-19.04620512094580" y="50.69734938052550"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="raster">
+        <TileSet href="1" units-per-pixel="0.04801549701120" order="1"/>
+        <TileSet href="2" units-per-pixel="0.02400774850560" order="2"/>
+        <TileSet href="3" units-per-pixel="0.01200387425280" order="3"/>
+        <TileSet href="4" units-per-pixel="0.00600193712640" order="4"/>
+        <TileSet href="5" units-per-pixel="0.00300096856320" order="5"/>
+        <TileSet href="6" units-per-pixel="0.00150048428160" order="6"/>
+        <TileSet href="7" units-per-pixel="0.00075024214080" order="7"/>
+      </TileSets>
+    </TileMap>
+    

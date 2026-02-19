@@ -10,10 +10,10 @@
     </Style>
     <Region>
       <LatLonAltBox>
-        <north>58.76395287840710</north>
-        <south>58.37982890231750</south>
-        <east>-7.13836186216820</east>
-        <west>-7.52248583825780</west>
+        <north>58.76477905535150</north>
+        <south>58.38076225837229</south>
+        <east>-7.13967000848670</east>
+        <west>-7.52368680546590</west>
       </LatLonAltBox>
       <Lod>
         <minLodPixels>128</minLodPixels>
@@ -26,10 +26,10 @@
         <href>20.png</href>
       </Icon>
       <LatLonBox>
-        <north>58.76395287840710</north>
-        <south>58.37982890231750</south>
-        <east>-7.13836186216820</east>
-        <west>-7.52248583825780</west>
+        <north>58.76477905535150</north>
+        <south>58.38076225837229</south>
+        <east>-7.13967000848670</east>
+        <west>-7.52368680546590</west>
       </LatLonBox>
     </GroundOverlay>
 
@@ -37,10 +37,10 @@
       <name>7/60/41.png</name>
       <Region>
         <LatLonAltBox>
-          <north>58.76395287840710</north>
-          <south>58.57189089036230</south>
-          <east>-7.33042385021300</east>
-          <west>-7.52248583825780</west>
+          <north>58.76477905535150</north>
+          <south>58.57277065686190</south>
+          <east>-7.33167840697630</east>
+          <west>-7.52368680546590</west>
         </LatLonAltBox>
         <Lod>
           <minLodPixels>128</minLodPixels>
@@ -58,10 +58,10 @@
       <name>7/61/41.png</name>
       <Region>
         <LatLonAltBox>
-          <north>58.76395287840710</north>
-          <south>58.57189089036230</south>
-          <east>-7.13836186216820</east>
-          <west>-7.33042385021300</west>
+          <north>58.76477905535150</north>
+          <south>58.57277065686190</south>
+          <east>-7.13967000848670</east>
+          <west>-7.33167840697630</west>
         </LatLonAltBox>
         <Lod>
           <minLodPixels>128</minLodPixels>
@@ -79,10 +79,10 @@
       <name>7/60/40.png</name>
       <Region>
         <LatLonAltBox>
-          <north>58.57189089036230</north>
-          <south>58.37982890231750</south>
-          <east>-7.33042385021300</east>
-          <west>-7.52248583825780</west>
+          <north>58.57277065686189</north>
+          <south>58.38076225837229</south>
+          <east>-7.33167840697630</east>
+          <west>-7.52368680546590</west>
         </LatLonAltBox>
         <Lod>
           <minLodPixels>128</minLodPixels>
@@ -100,10 +100,10 @@
       <name>7/61/40.png</name>
       <Region>
         <LatLonAltBox>
-          <north>58.57189089036230</north>
-          <south>58.37982890231750</south>
-          <east>-7.13836186216820</east>
-          <west>-7.33042385021300</west>
+          <north>58.57277065686189</north>
+          <south>58.38076225837229</south>
+          <east>-7.13967000848670</east>
+          <west>-7.33167840697630</west>
         </LatLonAltBox>
         <Lod>
           <minLodPixels>128</minLodPixels>

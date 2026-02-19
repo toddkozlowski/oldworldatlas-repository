@@ -3,17 +3,17 @@
       <Title>SW</Title>
       <Abstract></Abstract>
       <SRS>GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS 84",6378137,298.257223563,AUTHORITY["EPSG","7030"]],AUTHORITY["EPSG","6326"]],PRIMEM["Greenwich",0,AUTHORITY["EPSG","8901"]],UNIT["degree",0.0174532925199433,AUTHORITY["EPSG","9122"]],AXIS["Latitude",NORTH],AXIS["Longitude",EAST],AUTHORITY["EPSG","4326"]]</SRS>
-      <BoundingBox minx="-19.04423750283955" miny="31.94931116576745" maxx="-0.29394637033955" maxy="50.69960229826745"/>
-      <Origin x="-19.04423750283955" y="31.94931116576745"/>
+      <BoundingBox minx="-19.04500475678685" miny="31.94851823600035" maxx="-0.29322904325995" maxy="50.70029394952725"/>
+      <Origin x="-19.04500475678685" y="31.94851823600035"/>
       <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
       <TileSets profile="raster">
-        <TileSet href="1" units-per-pixel="0.04800074529920" order="1"/>
-        <TileSet href="2" units-per-pixel="0.02400037264960" order="2"/>
-        <TileSet href="3" units-per-pixel="0.01200018632480" order="3"/>
-        <TileSet href="4" units-per-pixel="0.00600009316240" order="4"/>
-        <TileSet href="5" units-per-pixel="0.00300004658120" order="5"/>
-        <TileSet href="6" units-per-pixel="0.00150002329060" order="6"/>
-        <TileSet href="7" units-per-pixel="0.00075001164530" order="7"/>
+        <TileSet href="1" units-per-pixel="0.04800262572160" order="1"/>
+        <TileSet href="2" units-per-pixel="0.02400131286080" order="2"/>
+        <TileSet href="3" units-per-pixel="0.01200065643040" order="3"/>
+        <TileSet href="4" units-per-pixel="0.00600032821520" order="4"/>
+        <TileSet href="5" units-per-pixel="0.00300016410760" order="5"/>
+        <TileSet href="6" units-per-pixel="0.00150008205380" order="6"/>
+        <TileSet href="7" units-per-pixel="0.00075004102690" order="7"/>
       </TileSets>
     </TileMap>
     
